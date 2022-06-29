@@ -1,0 +1,2 @@
+## Tipos e variáveis
+Estes arquivos js são exercícios da aula do Bootcamp Santander - DIO sobre variáveis e tipos. O arquivo palindromo.js contém um código que verifica se a string recebida é um palíndromo, neste arquivo encontra-se duas soluções para o problema. O arquivo arraypares.js, substitui os índices do array que são divisíveis por 2, por 0. E caso seja o array seja null ou undefined, ele vai retornar -1.
